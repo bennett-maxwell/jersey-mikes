@@ -1,0 +1,598 @@
+{
+ "slug": "jersey-mikes",
+ "brand": "Jersey Mike's Subs",
+ "field_count": 55,
+ "franchiseFee": 20000,
+ "totalInvestmentMin": 436176,
+ "totalInvestmentMax": 1162228,
+ "royaltyPercent": "6.5%",
+ "adFee": "1%",
+ "totalUnits": 3227,
+ "openLocations": 3201,
+ "corporateCity": "Tinton Falls",
+ "corporateState": "NJ",
+ "corporateZip": "07724",
+ "corporateAddress": "1 Commvault Way, Suite 400, Tinton Falls, NJ 07724",
+ "description": "Jersey Mike's Subs (franchisor: A Sub Above, LLC) is a submarine-sandwich quick-service franchise system with 3,227 restaurants open at the end of fiscal 2025, franchised in the United States since February 1987 under predecessor Jersey Mike's Franchise Systems. Franchisees operate made-to-order sub sandwich restaurants under a required Area Development Agreement plus a per-restaurant Franchise Agreement, paying a $20,000 initial franchise fee, 6.5% weekly royalty on gross receipts, and up to 6% combined advertising fund contributions. The 2026 FDD's Item 19 reports average unit volume of $1,367,578 across 2,606 traditional franchised restaurants for the January 1 - December 28, 2025 measurement period.",
+ "category": "Food & Beverage / Sandwich Franchise",
+ "websiteUrl": "https://www.jerseymikes.com",
+ "logoUrl": "https://www.jerseymikes.com/_nuxt/master-logo.HPKhujUP.svg",
+ "yearFounded": 1987,
+ "fddYear": 2026,
+ "territoryDescription": "Designated Territory (protected vs another physical JERSEY MIKE'S Restaurant while not in default); Company reserves all other channels: non-physical distribution (retail/wholesale/online) anywhere, Non-Traditional Venues inside the territory, other businesses incl. competitive ones under other marks, and acquisitions of competing businesses worldwide",
+ "item12": "protected",
+ "item20PinCount": 12,
+ "hq_source": "FDD Item 1, p.8",
+ "risk_score": 22,
+ "pins": [
+  {
+   "city": "Los Angeles",
+   "state": "CA",
+   "latitude": 34.0536909,
+   "longitude": -118.242766,
+   "pin_source": "Los Angeles, CA — franchised outlet(s), FDD Item 20 franchisee roster"
+  },
+  {
+   "city": "Dallas",
+   "state": "TX",
+   "latitude": 32.7762719,
+   "longitude": -96.7968559,
+   "pin_source": "Dallas, TX — franchised outlet(s), FDD Item 20 franchisee roster"
+  },
+  {
+   "city": "Chicago",
+   "state": "IL",
+   "latitude": 41.8755616,
+   "longitude": -87.6244212,
+   "pin_source": "Chicago, IL — franchised outlet(s), FDD Item 20 franchisee roster"
+  },
+  {
+   "city": "Phoenix",
+   "state": "AZ",
+   "latitude": 33.4484367,
+   "longitude": -112.074141,
+   "pin_source": "Phoenix, AZ — franchised outlet(s), FDD Item 20 franchisee roster"
+  },
+  {
+   "city": "Atlanta",
+   "state": "GA",
+   "latitude": 33.7544657,
+   "longitude": -84.3898151,
+   "pin_source": "Atlanta, GA — franchised outlet(s), FDD Item 20 franchisee roster"
+  },
+  {
+   "city": "New York",
+   "state": "NY",
+   "latitude": 40.7127281,
+   "longitude": -74.0060152,
+   "pin_source": "New York, NY — franchised outlet(s), FDD Item 20 franchisee roster"
+  },
+  {
+   "city": "Las Vegas",
+   "state": "NV",
+   "latitude": 36.1674263,
+   "longitude": -115.1484131,
+   "pin_source": "Las Vegas, NV — franchised outlet(s), FDD Item 20 franchisee roster"
+  },
+  {
+   "city": "Tampa",
+   "state": "FL",
+   "latitude": 27.9495104,
+   "longitude": -82.4577068,
+   "pin_source": "Tampa, FL — franchised outlet(s), FDD Item 20 franchisee roster"
+  },
+  {
+   "city": "Pittsburgh",
+   "state": "PA",
+   "latitude": 40.4406968,
+   "longitude": -80.0025666,
+   "pin_source": "Pittsburgh, PA — franchised outlet(s), FDD Item 20 franchisee roster"
+  },
+  {
+   "city": "Charlotte",
+   "state": "NC",
+   "latitude": 35.2272086,
+   "longitude": -80.8430827,
+   "pin_source": "Charlotte, NC — franchised outlet(s), FDD Item 20 franchisee roster"
+  },
+  {
+   "city": "St. Louis",
+   "state": "MO",
+   "latitude": 38.6254063,
+   "longitude": -90.190009,
+   "pin_source": "St. Louis, MO — franchised outlet(s), FDD Item 20 franchisee roster"
+  },
+  {
+   "city": "Manasquan",
+   "state": "NJ",
+   "latitude": 40.126226,
+   "longitude": -74.049304,
+   "pin_source": "Manasquan, NJ — franchised outlet(s), FDD Item 20 franchisee roster"
+  }
+ ],
+ "fields": {
+  "franchisor_legal_name": {
+   "value": "A Sub Above, LLC",
+   "type": "absolute",
+   "item": "FDD cover, p.1; FDD Item 1, p.8"
+  },
+  "brand_display_name": {
+   "value": "Jersey Mike's Subs",
+   "type": "absolute",
+   "item": "FDD Item 1, p.8 (JERSEY MIKE'S trade name)"
+  },
+  "franchisor_entity_type": {
+   "value": "Delaware limited liability company",
+   "type": "absolute",
+   "item": "FDD Item 1, p.8"
+  },
+  "franchisor_formed_date": {
+   "value": "2019-10-31",
+   "type": "absolute",
+   "item": "FDD Item 1, p.8 — formed in Delaware October 31, 2019"
+  },
+  "corporate_address": {
+   "value": "1 Commvault Way, Suite 400, Tinton Falls, NJ 07724",
+   "type": "absolute",
+   "item": "FDD Item 1, p.8 (principal place of business)"
+  },
+  "corporate_phone": {
+   "value": "(732) 223-4044",
+   "type": "absolute",
+   "item": "FDD cover, p.1"
+  },
+  "website": {
+   "value": "www.jerseymikes.com",
+   "type": "absolute",
+   "item": "FDD cover, p.1"
+  },
+  "parent_company": {
+   "value": "Jersey Mike's Franchise Systems, LLC (indirect parent; Blackstone-managed funds acquired majority ownership January 16, 2025)",
+   "type": "absolute",
+   "item": "FDD Item 1, p.8"
+  },
+  "franchise_system_since": {
+   "value": "1987-02",
+   "type": "absolute",
+   "item": "FDD Item 1, p.8 — predecessor JMFS offered franchises from February 1987"
+  },
+  "ceo": {
+   "value": "Charlie Morrison (CEO of Company and JMFS since April 2025; ex-Wingstop CEO 2012-2022)",
+   "type": "absolute",
+   "item": "FDD Item 2, p.12"
+  },
+  "fdd_issue": {
+   "value": "Issued 2026-04-10, amended 2026-08-26",
+   "type": "absolute",
+   "item": "FDD cover, p.1"
+  },
+  "development_fee": {
+   "value": "$10,000 per franchise under Area Development Agreement (non-refundable)",
+   "type": "absolute",
+   "item": "FDD Item 5, p.14"
+  },
+  "franchise_fee": {
+   "value": "$20,000 per Franchise Agreement (non-refundable, lump sum)",
+   "type": "absolute",
+   "item": "FDD Item 5, p.14"
+  },
+  "grand_opening_advertising_fee": {
+   "value": "$10,000 (lump sum at Franchise Agreement signing; not due on existing-restaurant purchase)",
+   "type": "absolute",
+   "item": "FDD Item 5, pp.14-15"
+  },
+  "pos_connection_fee": {
+   "value": "$4,500 (connect POS to Company private network, before opening)",
+   "type": "absolute",
+   "item": "FDD Item 5, p.15"
+  },
+  "pos_license_fee": {
+   "value": "$2,000 (one register) / $4,000 (two registers)",
+   "type": "absolute",
+   "item": "FDD Item 5, p.15"
+  },
+  "credit_card_processing_software_fee": {
+   "value": "$750",
+   "type": "absolute",
+   "item": "FDD Item 5, p.15"
+  },
+  "paid_to_franchisor_range": {
+   "value": "$47,250 to $49,250 (development fee + franchise fee + grand opening ad + POS fees)",
+   "type": "derived",
+   "item": "FDD cover, p.1; components from FDD Item 5, pp.14-15"
+  },
+  "royalty": {
+   "value": "6.5% of Gross Receipts, payable weekly via wire transfer",
+   "type": "absolute",
+   "item": "FDD Item 6, p.15"
+  },
+  "corporate_advertising_fund": {
+   "value": "Currently 1% of Gross Receipts; Company may require up to 6%",
+   "type": "absolute",
+   "item": "FDD Item 6, p.15"
+  },
+  "national_media_fund": {
+   "value": "4% of Gross Receipts; combined Corporate + National payments capped at 6%",
+   "type": "absolute",
+   "item": "FDD Item 6, p.15"
+  },
+  "transfer_fee": {
+   "value": "$15,000 per Franchised Restaurant being transferred",
+   "type": "absolute",
+   "item": "FDD Item 6, pp.16-17"
+  },
+  "relocation_fee": {
+   "value": "$5,000 per request + reimbursement of Company costs",
+   "type": "absolute",
+   "item": "FDD Item 6, p.17"
+  },
+  "software_license_fee": {
+   "value": "$395/month currently; may increase to $795/month",
+   "type": "absolute",
+   "item": "FDD Item 6, p.16"
+  },
+  "audit_fee": {
+   "value": "Cost of audit + interest if audit shows Gross Receipts understated by >= 2%",
+   "type": "absolute",
+   "item": "FDD Item 6, p.16"
+  },
+  "management_fee": {
+   "value": "5% of Gross Receipts + costs if Company operates the Restaurant on interim basis",
+   "type": "absolute",
+   "item": "FDD Item 6, p.16"
+  },
+  "investment_low": {
+   "value": 436176,
+   "type": "absolute",
+   "item": "FDD Item 7 TOTAL, p.24; also FDD cover, p.1"
+  },
+  "investment_high": {
+   "value": 1162228,
+   "type": "absolute",
+   "item": "FDD Item 7 TOTAL, p.24; also FDD cover, p.1"
+  },
+  "net_worth_requirement": {
+   "value": "not disclosed in FDD",
+   "type": "not_disclosed",
+   "item": "grep over fdd.txt: 'net worth' hits=4 — NASAA cover instruction + financial-statement tax notes only; no franchisee requirement"
+  },
+  "liquid_capital_requirement": {
+   "value": "not disclosed in FDD",
+   "type": "not_disclosed",
+   "item": "grep over fdd.txt: 'liquid capital'=0 hits; 'minimum liquidity'=0 hits"
+  },
+  "territory": {
+   "value": "Designated Territory (protected vs another physical JERSEY MIKE'S Restaurant while not in default); Company reserves all other channels: non-physical distribution (retail/wholesale/online) anywhere, Non-Traditional Venues inside the territory, other businesses incl. competitive ones under other marks, and acquisitions of competing businesses worldwide",
+   "type": "absolute",
+   "item": "FDD Item 12, pp.42-43"
+  },
+  "franchise_term": {
+   "value": "10 years from Restaurant opening date",
+   "type": "absolute",
+   "item": "FDD Item 17, p.48"
+  },
+  "renewal": {
+   "value": "1 additional 10-year term if compliant; $20,000 successor franchise fee",
+   "type": "absolute",
+   "item": "FDD Item 17, p.48"
+  },
+  "area_development_agreement": {
+   "value": "An Area Development Agreement is required regardless of unit count; development fee $10,000 x units; Franchise Agreement signed per restaurant after Company accepts the lease",
+   "type": "absolute",
+   "item": "FDD Item 5, p.14"
+  },
+  "training": {
+   "value": "3 phases: Phases 1 and 3 = minimum 8 consecutive weeks on-the-job training; Phase 2 = 4 days classroom in Manasquan, NJ; 3 trainees (1/2/3); franchisee pays travel; grand-opening participation at another restaurant",
+   "type": "absolute",
+   "item": "FDD Item 11, p.36"
+  },
+  "item19_period": {
+   "value": "2025-01-01 to 2025-12-28",
+   "type": "absolute",
+   "item": "FDD Item 19, p.56"
+  },
+  "item19_restaurants_reporting": {
+   "value": "2,606 Traditional Franchised Restaurants",
+   "type": "absolute",
+   "item": "FDD Item 19, p.57"
+  },
+  "item19_avg_unit_volume": {
+   "value": 1367578,
+   "type": "absolute",
+   "item": "FDD Item 19, p.57"
+  },
+  "item19_median_unit_volume": {
+   "value": 1305850,
+   "type": "absolute",
+   "item": "FDD Item 19, p.57"
+  },
+  "item19_high_unit_volume": {
+   "value": 3228616,
+   "type": "absolute",
+   "item": "FDD Item 19, p.57"
+  },
+  "item19_low_unit_volume": {
+   "value": 512332,
+   "type": "absolute",
+   "item": "FDD Item 19, p.57"
+  },
+  "item19_met_or_exceeded_avg": {
+   "value": "1,148 of 2,606 (44%)",
+   "type": "absolute",
+   "item": "FDD Item 19, p.57"
+  },
+  "item19_basis": {
+   "value": "POS-system polling; figures not stated as audited in Item 19",
+   "type": "absolute",
+   "item": "FDD Item 19, p.57"
+  },
+  "item19_excluded": {
+   "value": "621 of 3,227 open restaurants excluded (583 open <361 days, 8 off designated POS, 13 non-traditional, 17 company/affiliate/Item-2-person owned)",
+   "type": "absolute",
+   "item": "FDD Item 19, p.57"
+  },
+  "outlets_total_2025": {
+   "value": "3,227 (3,201 franchised + 26 company-affiliate)",
+   "type": "absolute",
+   "item": "FDD Item 20 Table 1, p.58"
+  },
+  "outlets_franchised_2025": {
+   "value": 3201,
+   "type": "absolute",
+   "item": "FDD Item 20 Table 1, p.58"
+  },
+  "outlets_franchised_2023": {
+   "value": 2361,
+   "type": "absolute",
+   "item": "FDD Item 20 Table 1, p.58"
+  },
+  "net_growth_2023_2025": {
+   "value": "+840 franchised (+35.6%)",
+   "type": "derived",
+   "item": "computed from FDD Item 20 Table 1, p.58: 2,361 -> 3,201"
+  },
+  "terminations_2023_2025": {
+   "value": "0 disclosed across all state-year rows",
+   "type": "absolute",
+   "item": "FDD Item 20 Table 3, pp.59-66"
+  },
+  "projected_openings_2026": {
+   "value": "see Table 5 (e.g., CA 47 signed/23 projected, TX state rows)",
+   "type": "absolute",
+   "item": "FDD Item 20 Table 5, p.67"
+  },
+  "litigation_washington": {
+   "value": "State of Washington v. JMFS (no-poach, 2018) — Assurance of Discontinuance Aug 23, 2019; $150,000 paid, no admission of liability",
+   "type": "absolute",
+   "item": "FDD Item 3, p.13"
+  },
+  "litigation_tsou": {
+   "value": "Sam Tsou v. A Sub Above, LLC (gift-card class action, filed Sep 29, 2025; class not certified) — settled Mar 27, 2026, $25,000",
+   "type": "absolute",
+   "item": "FDD Item 3, pp.13-14"
+  },
+  "litigation_brewer": {
+   "value": "Justin Brewer v. JMFS (mobile-app service-fee class action, filed Feb 6, 2026, C.D. Cal.) — PENDING; arbitration motion granted Aug 6, 2026",
+   "type": "absolute",
+   "item": "FDD Item 3, p.14"
+  },
+  "bankruptcy": {
+   "value": "None disclosed",
+   "type": "absolute",
+   "item": "FDD Item 4, p.14"
+  },
+  "risk_score": {
+   "value": 22,
+   "type": "derived",
+   "item": "published method: base 15 + 6 litigation + 4 capital intensity + 4 territory carve-outs + 3 Item-19 coverage - 4 mature system - 3 unit growth - 3 zero terminations = 22"
+  }
+ },
+ "netWorthRequirement": "not disclosed in FDD",
+ "netWorthRequirementNote": "grep over fdd.txt (395 extract pages): 'net worth' = 4 hits (NASAA cover instruction + financial-statement tax notes); zero hits describe a franchisee requirement",
+ "liquidCapitalRequirement": "not disclosed in FDD",
+ "liquidCapitalRequirementNote": "grep over fdd.txt: 'liquid capital' = 0 hits; 'minimum liquidity' = 0 hits",
+ "pinVerification": {
+  "method": "loop-runner Nominatim forward-geocode of each pin (city, state); haversine vs stored coords; tolerance 50.0km; UA FKI-MapKI/1.0; >=1.5s sleeps",
+  "run_at": "2026-09-14T18:31:00Z",
+  "pins_total": 12,
+  "pins_verified": 12,
+  "pins_unverifiable": 0,
+  "pins_mismatch": 0,
+  "all_verified": true,
+  "per_pin": [
+   {
+    "pin": 0,
+    "city": "Los Angeles",
+    "state": "CA",
+    "stored": [
+     34.0536909,
+     -118.242766
+    ],
+    "geocoded": [
+     34.0536909,
+     -118.242766
+    ],
+    "distance_km": 0.0,
+    "us_bounds_ok": true,
+    "status": "VERIFIED"
+   },
+   {
+    "pin": 1,
+    "city": "Dallas",
+    "state": "TX",
+    "stored": [
+     32.7762719,
+     -96.7968559
+    ],
+    "geocoded": [
+     32.7762719,
+     -96.7968559
+    ],
+    "distance_km": 0.0,
+    "us_bounds_ok": true,
+    "status": "VERIFIED"
+   },
+   {
+    "pin": 2,
+    "city": "Chicago",
+    "state": "IL",
+    "stored": [
+     41.8755616,
+     -87.6244212
+    ],
+    "geocoded": [
+     41.8755616,
+     -87.6244212
+    ],
+    "distance_km": 0.0,
+    "us_bounds_ok": true,
+    "status": "VERIFIED"
+   },
+   {
+    "pin": 3,
+    "city": "Phoenix",
+    "state": "AZ",
+    "stored": [
+     33.4484367,
+     -112.074141
+    ],
+    "geocoded": [
+     33.4484367,
+     -112.074141
+    ],
+    "distance_km": 0.0,
+    "us_bounds_ok": true,
+    "status": "VERIFIED"
+   },
+   {
+    "pin": 4,
+    "city": "Atlanta",
+    "state": "GA",
+    "stored": [
+     33.7544657,
+     -84.3898151
+    ],
+    "geocoded": [
+     33.7544657,
+     -84.3898151
+    ],
+    "distance_km": 0.0,
+    "us_bounds_ok": true,
+    "status": "VERIFIED"
+   },
+   {
+    "pin": 5,
+    "city": "New York",
+    "state": "NY",
+    "stored": [
+     40.7127281,
+     -74.0060152
+    ],
+    "geocoded": [
+     40.7127281,
+     -74.0060152
+    ],
+    "distance_km": 0.0,
+    "us_bounds_ok": true,
+    "status": "VERIFIED"
+   },
+   {
+    "pin": 6,
+    "city": "Las Vegas",
+    "state": "NV",
+    "stored": [
+     36.1674263,
+     -115.1484131
+    ],
+    "geocoded": [
+     36.1674263,
+     -115.1484131
+    ],
+    "distance_km": 0.0,
+    "us_bounds_ok": true,
+    "status": "VERIFIED"
+   },
+   {
+    "pin": 7,
+    "city": "Tampa",
+    "state": "FL",
+    "stored": [
+     27.9495104,
+     -82.4577068
+    ],
+    "geocoded": [
+     27.9449854,
+     -82.4583107
+    ],
+    "distance_km": 0.51,
+    "us_bounds_ok": true,
+    "status": "VERIFIED"
+   },
+   {
+    "pin": 8,
+    "city": "Pittsburgh",
+    "state": "PA",
+    "stored": [
+     40.4406968,
+     -80.0025666
+    ],
+    "geocoded": [
+     40.4406968,
+     -80.0025666
+    ],
+    "distance_km": 0.0,
+    "us_bounds_ok": true,
+    "status": "VERIFIED"
+   },
+   {
+    "pin": 9,
+    "city": "Charlotte",
+    "state": "NC",
+    "stored": [
+     35.2272086,
+     -80.8430827
+    ],
+    "geocoded": [
+     35.2272086,
+     -80.8430827
+    ],
+    "distance_km": 0.0,
+    "us_bounds_ok": true,
+    "status": "VERIFIED"
+   },
+   {
+    "pin": 10,
+    "city": "St. Louis",
+    "state": "MO",
+    "stored": [
+     38.6254063,
+     -90.190009
+    ],
+    "geocoded": [
+     38.6254063,
+     -90.190009
+    ],
+    "distance_km": 0.0,
+    "us_bounds_ok": true,
+    "status": "VERIFIED"
+   },
+   {
+    "pin": 11,
+    "city": "Manasquan",
+    "state": "NJ",
+    "stored": [
+     40.126226,
+     -74.049304
+    ],
+    "geocoded": [
+     40.126226,
+     -74.049304
+    ],
+    "distance_km": 0.0,
+    "us_bounds_ok": true,
+    "status": "VERIFIED"
+   }
+  ]
+ },
+ "pinsUpdatedAt": "2026-09-14T18:31:00Z"
+}
