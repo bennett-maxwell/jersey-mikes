@@ -393,7 +393,7 @@
   "liquidCapitalRequirementNote": "grep over fdd.txt: 'liquid capital' = 0 hits; 'minimum liquidity' = 0 hits",
   "pinVerification": {
     "method": "D4-08 per-pin re-verification: independent Nominatim forward-geocode of each pin's (city, state); haversine vs stored plotted coords; 50km tolerance",
-    "run_utc": "2026-09-15T01:59:04.241717+00:00",
+    "run_utc": "2026-09-15T06:49:07.836622+00:00",
     "pins_total": 12,
     "pins_verified": 12,
     "pins_mismatch": 0,
@@ -414,6 +414,7 @@
         ],
         "geocode_query": "Los Angeles, California, United States",
         "distance_km": 0.0,
+        "within_50km": true,
         "status": "VERIFIED"
       },
       {
@@ -430,6 +431,7 @@
         ],
         "geocode_query": "Dallas, Texas, United States",
         "distance_km": 0.0,
+        "within_50km": true,
         "status": "VERIFIED"
       },
       {
@@ -446,6 +448,7 @@
         ],
         "geocode_query": "Chicago, Illinois, United States",
         "distance_km": 0.0,
+        "within_50km": true,
         "status": "VERIFIED"
       },
       {
@@ -462,6 +465,7 @@
         ],
         "geocode_query": "Phoenix, Arizona, United States",
         "distance_km": 0.0,
+        "within_50km": true,
         "status": "VERIFIED"
       },
       {
@@ -478,6 +482,7 @@
         ],
         "geocode_query": "Atlanta, Georgia, United States",
         "distance_km": 0.0,
+        "within_50km": true,
         "status": "VERIFIED"
       },
       {
@@ -494,6 +499,7 @@
         ],
         "geocode_query": "New York, New York, United States",
         "distance_km": 0.0,
+        "within_50km": true,
         "status": "VERIFIED"
       },
       {
@@ -510,6 +516,7 @@
         ],
         "geocode_query": "Las Vegas, Nevada, United States",
         "distance_km": 0.0,
+        "within_50km": true,
         "status": "VERIFIED"
       },
       {
@@ -526,6 +533,7 @@
         ],
         "geocode_query": "Tampa, Florida, United States",
         "distance_km": 0.51,
+        "within_50km": true,
         "status": "VERIFIED"
       },
       {
@@ -542,6 +550,7 @@
         ],
         "geocode_query": "Pittsburgh, Pennsylvania, United States",
         "distance_km": 0.0,
+        "within_50km": true,
         "status": "VERIFIED"
       },
       {
@@ -558,6 +567,7 @@
         ],
         "geocode_query": "Charlotte, North Carolina, United States",
         "distance_km": 0.0,
+        "within_50km": true,
         "status": "VERIFIED"
       },
       {
@@ -574,6 +584,7 @@
         ],
         "geocode_query": "St. Louis, Missouri, United States",
         "distance_km": 0.0,
+        "within_50km": true,
         "status": "VERIFIED"
       },
       {
@@ -590,11 +601,12 @@
         ],
         "geocode_query": "Manasquan, New Jersey, United States",
         "distance_km": 0.0,
+        "within_50km": true,
         "status": "VERIFIED"
       }
     ]
   },
-  "pinsUpdatedAt": "2026-09-15T01:59:04.241717+00:00",
+  "pinsUpdatedAt": "2026-09-15T06:49:07.836622+00:00",
   "risk_method": "base 15 + litigation 6 + capital_intensity 4 + territory_carve_outs 4 + item19_coverage 3 - mature_system 4 - unit_growth 3 - zero_terminations 3 = 22",
   "risk_components": [
     {
